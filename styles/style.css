@@ -1,0 +1,35 @@
+html{
+	
+    background-color:#766F71;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1,p,li{
+	
+    line-height:2;
+    letter-spacing:1px;
+    
+}
+body{
+    width:600px;
+    margin:0 auto;
+    background:#F0EEEF;
+    padding:0 20px 20px 20px 20px;
+    border: 5px solid black;
+}
+h1{
+    
+    front-size:28px;
+    margin:0;
+    paring:20px;
+    color:black;
+    text-shadow:3px 3px 1px black;
+
+}
+img{
+    display:block;
+    margin:0 auto;
+}
